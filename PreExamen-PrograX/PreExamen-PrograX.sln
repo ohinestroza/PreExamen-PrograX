@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreExamen-PrograX", "PreExamen-PrograX\PreExamen-PrograX.csproj", "{152941CE-E778-43B7-951F-2F0333E85D0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{152941CE-E778-43B7-951F-2F0333E85D0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{152941CE-E778-43B7-951F-2F0333E85D0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{152941CE-E778-43B7-951F-2F0333E85D0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{152941CE-E778-43B7-951F-2F0333E85D0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C92C6B9-81D0-4E1D-874F-70CA7F874D52}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+C:\Users\Home\Documents\UDEO\2T22\Programación X\PreExamen-PrograX\PreExamen-PrograX\obj\Debug\PreExamen-PrograX.csproj.AssemblyReference.cache
+C:\Users\Home\Documents\UDEO\2T22\Programación X\PreExamen-PrograX\PreExamen-PrograX\obj\Debug\PreExamen-PrograX.csproj.SuggestedBindingRedirects.cache
+C:\Users\Home\Documents\UDEO\2T22\Programación X\PreExamen-PrograX\PreExamen-PrograX\obj\Debug\PreExamen-PrograX.csproj.CoreCompileInputs.cache
+C:\Users\Home\Documents\UDEO\2T22\Programación X\PreExamen-PrograX\PreExamen-PrograX\bin\Debug\PreExamen-PrograX.exe.config
+C:\Users\Home\Documents\UDEO\2T22\Programación X\PreExamen-PrograX\PreExamen-PrograX\bin\Debug\PreExamen-PrograX.exe
+C:\Users\Home\Documents\UDEO\2T22\Programación X\PreExamen-PrograX\PreExamen-PrograX\bin\Debug\PreExamen-PrograX.pdb
+C:\Users\Home\Documents\UDEO\2T22\Programación X\PreExamen-PrograX\PreExamen-PrograX\obj\Debug\PreExamen-PrograX.exe
+C:\Users\Home\Documents\UDEO\2T22\Programación X\PreExamen-PrograX\PreExamen-PrograX\obj\Debug\PreExamen-PrograX.pdb
